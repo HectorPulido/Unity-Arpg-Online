@@ -1,5 +1,5 @@
 # ACTION RPG ONLINE
-<b>This is a ARPG ONLINE made with Unity and C#</b>
+<b>This is a ARPG ONLINE made with Unity and C#</b><br/>
 [![Banner](http://img.youtube.com/vi/mUo6V7uMHnw/0.jpg)](http://www.youtube.com/watch?v=mUo6V7uMHnw)
 
 ## WHY (MOTIVATION)
