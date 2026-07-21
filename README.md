@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **This project has moved.** It now lives in [`AwesomeUnityProjects/arpg-online`](https://github.com/HectorPulido/AwesomeUnityProjects/tree/main/arpg-online). This repo is archived and read-only.
+
 # ACTION RPG ONLINE
 <b>This is a ARPG ONLINE made with Unity and C#</b><br/>
 [![Banner](http://img.youtube.com/vi/mUo6V7uMHnw/0.jpg)](http://www.youtube.com/watch?v=mUo6V7uMHnw)
